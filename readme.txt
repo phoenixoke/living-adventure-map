@@ -1,4 +1,4 @@
-Living Adventure Map 0.3.0 (261117-01) by Sinistral
+Living Adventure Map 0.3.1 (261117-02) by Sinistral
 
 ## Description
 
@@ -18,6 +18,9 @@ their real size: deer and stags, wild horses, zebras, bison and buffalo, elephan
 skylines, wolves, bears, leopards, camels, ostriches, boars, alligators and hippos at swamp lakes, herons, beavers,
 penguins and polar bears on snowy coasts, dolphins and a shark fin at sea. Heroes leave hoof tracks that fade the next
 day. Soft cloud shadows drift with the wind. And somewhere, very rarely, something special happens.
+
+The map can be heard too: the wind rising and falling with the weather, leaves in the trees, crackling fires, bubbling
+lava, splashing fish, birds and animals calling - quietly, from where they are on the screen.
 
 Every plant, pond and smoke plume is read from the graphics the game already uses, so it works with the original art,
 WoG Graphic Fix, Third Upgrade Mod and JS's new objects and terrains alike.
@@ -41,6 +44,7 @@ save or start a game: no restart needed (except `Enabled`).
 
 ## Changelog
 
+- 0.3.1 (261117-02): sound - wind, leaves, fire, lava, water, birds and animals (`[Sound]` in the ini).
 - 0.3.0 (261117-01): changing weather and a veering wind, wind compass with the wind window (your own wind), smoke in the game's
   own pictures bends with the wind, wildlife in realistic rendered art (20+ animals, each switchable), birds that land
   and take off, more bird species, lava bursts, a very rare surprise. Waving flags of 0.3 test builds dropped.
