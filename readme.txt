@@ -1,4 +1,4 @@
-Living Adventure Map 0.3.0 by Sinistral
+Living Adventure Map 0.3.0 (261117-01) by Sinistral
 
 ## Description
 
@@ -41,7 +41,7 @@ save or start a game: no restart needed (except `Enabled`).
 
 ## Changelog
 
-- 0.3.0: changing weather and a veering wind, wind compass with the wind window (your own wind), smoke in the game's
+- 0.3.0 (261117-01): changing weather and a veering wind, wind compass with the wind window (your own wind), smoke in the game's
   own pictures bends with the wind, wildlife in realistic rendered art (20+ animals, each switchable), birds that land
   and take off, more bird species, lava bursts, a very rare surprise. Waving flags of 0.3 test builds dropped.
 - 0.2.0 (261116-02): first public build: wind and swaying plants, leaves, ground-type life, water and lava life, birds,
