@@ -1,0 +1,8 @@
+# Live mod folder under git (261115). h3mod release never ships .git / .gitignore.
+*.bak
+*.bak[0-9]*
+*.off
+*.log
+__pycache__/
+Thumbs.db
+desktop.ini

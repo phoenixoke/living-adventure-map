@@ -1,0 +1,23 @@
+{
+	"caption": {
+		"en_US": "Living Adventure Map"
+	},
+	"description": {
+		"short": {
+			"en_US": "The adventure map comes alive: wind and swaying plants, falling leaves, life on every ground type, fish, lava bubbles, birds, cloud shadows, smoke and fading hero tracks. Settings in Data\\Living Adventure Map.ini."
+		},
+		"full": {
+			"en_US": "readme.txt"
+		}
+	},
+	"author": "Sinistral",
+	"mod_version": "0.2.0 (261116-02)",
+	"priority": 0,
+	"platform": "era",
+	"info_version": "1.0",
+	"category": "graphics",
+	"compatibility": {
+		"class": "default",
+		"entries": {}
+	}
+}
