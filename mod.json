@@ -4,14 +4,19 @@
 	},
 	"description": {
 		"short": {
-			"en_US": "The adventure map comes alive: changing weather and a veering wind with a clickable wind compass, swaying plants and falling leaves, smoke that bends with the wind, life on every ground type, realistic wildlife, birds that land and take off, cloud shadows and fading hero tracks. Settings in Data\\Living Adventure Map.ini."
+			"en_US": "The adventure map comes alive - wind and weather, wildlife, birds that come and go, and the sounds of the land. Settings in Data\\Living Adventure Map.ini."
 		},
 		"full": {
 			"en_US": "readme.txt"
 		}
 	},
 	"author": "Sinistral",
-	"mod_version": "0.3.0 (261117-02)",
+	"homepage": "https://github.com/phoenixoke/living-adventure-map",
+	"icon": {
+		"file": "living-adventure-map.ico",
+		"index": 0
+	},
+	"mod_version": "1.0",
 	"priority": 0,
 	"platform": "era",
 	"info_version": "1.0",
