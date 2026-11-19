@@ -1,0 +1,8 @@
+ZVSE2
+
+** Living Adventure Map 1.2 - System Options > Other Settings > Living Adventure Tweak.
+** The plugin adds the button (an ERM button, after Script Message Disabling) and this function is what it calls.
+** No text here: every text of the mod is in Lang\*.json (ERA's json keys).
+
+!?FU(LAM_TweakButton);
+!!SN:F^Living_Adventure_Map:LAM_TweakButton^;

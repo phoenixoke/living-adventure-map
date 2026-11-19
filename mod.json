@@ -1,13 +1,16 @@
 {
 	"caption": {
-		"en_US": "Living Adventure Map"
+		"en_US": "Living Adventure Map",
+		"ru_RU": "Living Adventure Map"
 	},
 	"description": {
 		"short": {
-			"en_US": "The adventure map comes alive - wind and weather, wildlife, birds that come and go, and the sounds of the land. Settings in Data\\Living Adventure Map.ini."
+			"en_US": "The adventure map comes alive - wind and weather, wildlife, birds that come and go, creature banks and dwellings whose creatures come out, and the sounds of the land. Settings in Data\\Living Adventure Map.ini and in System Options.",
+			"ru_RU": "Карта приключений оживает: ветер и погода, животные, птицы, которые прилетают и улетают, оживающие сокровищницы и жилища, и звуки земли. Настройки в Data\\Living Adventure Map.ini и в Системных настройках."
 		},
 		"full": {
-			"en_US": "Readme.md"
+			"en_US": "Readme.md",
+			"ru_RU": "Readme_ru.md"
 		}
 	},
 	"author": "Sinistral",
@@ -16,7 +19,7 @@
 		"file": "living-adventure-map.ico",
 		"index": 0
 	},
-	"mod_version": "1.1",
+	"mod_version": "1.2",
 	"priority": 0,
 	"platform": "era",
 	"info_version": "1.0",
