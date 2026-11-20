@@ -68,7 +68,7 @@
     "tweak": {
       "button": {
         "name": "{Living Adventure Tweak}",
-        "hint": "{Living Adventure Tweak}\n\nSettings of the Living Adventure Map: the wind compass, the sound volumes, the effects and the creature life. The compass icon opens the wind window."
+        "hint": "{Living Adventure Tweak}\n\nSettings of the Living Adventure Map: the wind compass, the leaf amount, the effects and the creature life. The compass icon opens the wind window."
       },
       "title": "Living Adventure Tweak",
       "hideCompass": {
@@ -82,8 +82,6 @@
         "hideCompass": "Hide the wind compass from the adventure map (the compass ini keys stay as they are)",
         "corner": "The corner of the map view where the compass sits",
         "size": "How big the compass is on the map",
-        "volume": "All sounds of this mod (on top of the game's sound effects volume)",
-        "windvol": "The wind and the leaves, on top of the mod volume",
         "trees": "Trees and plants sway in the wind",
         "leaves": "The wind takes leaves, needles and snow off the trees",
         "birds": "Birds fly over the map and land on roofs, trees and lakes",
@@ -93,7 +91,8 @@
         "millUnder": "Windmills underground turn with the wind above ground (no other wind underground)",
         "banks": "Bank guards (the Dragon Utopia too) fly, walk or swim around the bank until it is cleared",
         "dwellings": "Creatures come out of dwellings that have some to hire (half of them, at most 2 at a time)",
-        "objects": "Life at adventure objects: swordsmen train in front of Marletto Tower"
+        "objects": "Life at adventure objects: swordsmen train in front of Marletto Tower",
+        "leafAmount": "How many leaves, needles and snow the wind takes off the trees (top bar = normal)"
       },
       "head": {
         "effects": "Effects",
@@ -107,8 +106,6 @@
         "br": "Bottom right"
       },
       "size": "Compass size",
-      "volume": "Mod volume",
-      "wind": "Wind volume",
       "trees": "Swaying trees",
       "leaves": "Falling leaves",
       "birds": "Birds",
@@ -118,7 +115,8 @@
       "millUnder": "Mills underground",
       "banks": "Creature banks",
       "dwellings": "Dwellings",
-      "objects": "Adventure objects"
+      "objects": "Adventure objects",
+      "leafAmount": "Leaf amount"
     }
   }
 }
