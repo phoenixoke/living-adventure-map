@@ -1,4 +1,4 @@
-# Living Adventure Map 1.2
+# Living Adventure Map 1.2.1
 
 by Sinistral, co-authored by Claude
 
@@ -23,8 +23,8 @@ Install it from the Heroes Launcher Mod Browser, or unzip the release into `Hero
 All switches and strengths are in `Mods\Living Adventure Map\Data\Living Adventure Map.ini`; each value shows its default and what it does. Change a value, then load a save or start a game: no restart needed (except to switch `[Main] Enabled` or `[Sound] Enabled` back on).
 
 - **Wind compass:** left-click it for the wind window - tick "Let the game decide the wind" for changing weather, or untick it, drag the arrow to where the wind should blow and set its strength with the slider; OK keeps it (Cancel or Esc changes nothing). Right-click it to see what the wind does now. `[Compass] Clickable = 0` turns the clicks off.
-- **Living Adventure Tweak:** System Options > Other Settings (below Script Message Disabling, once a game has started). Three columns: General (hide the compass, its corner and size, mod and wind volume), Effects (trees, leaves, birds, wildlife, smoke, windmills, windmills underground) and Creature Life (creature banks - the Dragon Utopia too -, dwellings, adventure objects). The compass icon at the top right opens the wind window. OK writes your changes into the ini.
-- **Sound** follows the game's Sound Effects volume and its "Background Sounds" option. `[Sound] Volume` scales it further.
+- **Living Adventure Tweak:** System Options > Other Settings (below Script Message Disabling, once a game has started). Three columns: General (hide the compass, its corner and size, the leaf amount), Effects (trees, leaves, birds, wildlife, smoke, windmills, windmills underground) and Creature Life (creature banks - the Dragon Utopia too -, dwellings, adventure objects). The compass icon at the top right opens the wind window. OK writes your changes into the ini.
+- **Sound** follows the game's Sound Effects volume and its "Background Sounds" option.
 - **Languages:** every text is in `Lang\living_adventure_map.json`; a Russian translation is in `Lang\ru\`. Choose the language with the Language button in System Options. To translate, copy the json into `Lang\<language code>\` and translate the texts (keep the `@name@` parts).
 - **Each feature has its own switch:** `[Windmills]` (also `CalmStop` and `Underground`), `[Banks]`, `[Dwellings]`, `[Buildings] Training` and `Dragons`, `[Smoke] Chimneys` and `Glow`, `[Sites]`, `[Trees]`.
 - **Off by default:** the crackling fire and the leaf rustling sounds (`[Sound] Fire`, `Leaves`), and the experimental bending of volcano and geyser plumes (`[Smoke] Volcanic` - still being reworked, see the warning in the ini).
