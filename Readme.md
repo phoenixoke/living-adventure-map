@@ -10,7 +10,7 @@ The wind picks up and dies down, trees bend and lose their leaves, smoke drifts 
 
 The guards of every creature bank come alive - from the game or from any mod: flyers circle the bank and perch on its roof, walkers patrol in front of it and look around, sea guards swim around and dive, floating eyes hover and drift - until the bank is cleared. Dwellings send out some of the creatures you could hire there. Devils do not walk - they vanish in flames and appear again somewhere else.
 
-Castle towns grow a village in front of their walls as you build them: houses, the tavern, the marketplace, the blacksmith, a well, watchtowers, market stalls and gardens, placed around the map's own objects and never moved once they stand. Birds land on its roofs and its trees sway with the wind. Still a work in progress: Castle only for now, and the town's dwellings and special buildings are not shown yet. Still shrines, wells and fountains give off a faint shimmer, and objects at sea stir the water around them.
+Towns grow a village in front of their walls as you build them: houses, the tavern, the marketplace, the blacksmith, a well, watchtowers, market stalls and gardens, placed around the map's own objects and never moved once they stand. Birds land on its roofs and its trees sway with the wind. Still a work in progress: Castle only for now, and the town's dwellings and special buildings are not planned. Still shrines, wells and fountains give off a faint shimmer, and objects at sea stir the water around them.
 
 A small compass shows where the wind blows - or lets you decide. Calm days leave the windmills standing still.
 
