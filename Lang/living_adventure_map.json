@@ -68,7 +68,7 @@
     "tweak": {
       "button": {
         "name": "{Living Adventure Tweak}",
-        "hint": "{Living Adventure Tweak}\n\nSettings of the Living Adventure Map: the wind compass, the leaf amount, the effects and the creature life. The compass icon opens the wind window."
+        "hint": "{Living Adventure Tweak}\n\nSettings of the Living Adventure Map: the wind compass, the leaf amount, the effects, the creature life and special immersion. The compass icon opens the wind window."
       },
       "title": "Living Adventure Tweak",
       "hideCompass": {
@@ -89,15 +89,18 @@
         "smoke": "Smoke rising from campfires and chimneys",
         "mills": "Windmills turn with the wind and stand still in a calm",
         "millUnder": "Windmills underground turn with the wind above ground (no other wind underground)",
-        "banks": "Bank guards (the Dragon Utopia too) fly, walk or swim around the bank until it is cleared",
+        "treeUnder": "Trees and plants underground sway with the wind above ground (no other wind underground)",
+        "banks": "Bank guards (the Dragon Utopia too) fly, walk, swim or teleport around the bank until it is cleared",
         "dwellings": "Creatures come out of dwellings that have some to hire (half of them, at most 2 at a time)",
         "objects": "Life at adventure objects: swordsmen train in front of Marletto Tower",
-        "leafAmount": "How many leaves, needles and snow the wind takes off the trees (top bar = normal)"
+        "leafAmount": "How many leaves, needles and snow the wind takes off the trees (top bar = normal)",
+        "towns": "WIP: villages grow in front of Castle towns as they are built (no dwellings or special buildings yet)"
       },
       "head": {
         "effects": "Effects",
         "life": "Creature Life",
-        "general": "General"
+        "general": "General",
+        "immersion": "Special Immersion"
       },
       "corner": {
         "tl": "Top left",
@@ -113,10 +116,12 @@
       "smoke": "Smoke",
       "mills": "Windmills",
       "millUnder": "Mills underground",
+      "treeUnder": "Trees underground",
       "banks": "Creature banks",
       "dwellings": "Dwellings",
       "objects": "Adventure objects",
-      "leafAmount": "Leaf amount"
+      "leafAmount": "Leaf amount",
+      "towns": "Town Building Immersion"
     }
   }
 }
