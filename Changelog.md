@@ -2,6 +2,23 @@
 
 The release notes of every version, newest first (the same notes as on the GitHub release pages).
 
+## 1.4 beta 3
+
+Town Building Immersion is in beta until every town type has its village.
+
+### New
+- **Tower villages:** Tower towns now grow a village of their own as you build them, drawn to match the Tower's own town screen: grey stone houses under mossy slate roofs, a classical tavern with fire braziers, a market hall on white columns, a clock-tower silo, a stone forge, and a mage guild that gains a floor with every level.
+- **Tower landmarks:** a fountain stands in front of the town from the start, a guard tower appears for each fort level, and the Lookout Tower, Library, Wall of Knowledge and Artifact Merchants each bring their own small landmark to the village.
+- **Tower roads:** the village road is laid from the Tower's own cobbles, so it carries on from the town's road without a seam.
+- **Tower villagers:** townsfolk in the Tower's blues and whites, gremlins without their ball and chain, and mages without their staff.
+
+### Fixed
+- Village roads no longer disappear on snow (every town type).
+- Villagers now follow the road to their town's door and back, instead of cutting straight over the grass (every town type). The Tower's door is where its gate opens between the two flags.
+
+### Note
+- Villages in savegames from 1.4 beta 2 are made again once when the save is loaded, so they may look different.
+
 ## 1.4 beta 2
 
 Town Building Immersion is in beta until every town type has its village.
