@@ -2,6 +2,25 @@
 
 The release notes of every version, newest first (the same notes as on the GitHub release pages).
 
+## 1.4 beta 2
+
+Town Building Immersion is in beta until every town type has its village.
+
+### New
+- **Villagers:** every village house has someone living in it. Villagers stroll to the market, the well and the benches, stop for a word with each other, sit for a while and go home now and then, always to their own house.
+- **They visit their town:** now and then a villager follows the road and the town's own road up to its door, goes in for a few seconds and comes back out.
+- **They know their lord:** when a hero of the town's owner (or an ally) comes within 2 tiles, the villagers nearby stop and bow.
+- **They fear strangers:** when an enemy hero comes within 3 tiles, everyone runs home and stays inside until he is gone, or until the town is his. Towns without an owner are wary of every hero.
+- **Castle** villagers are peasants in different clothes. **Rampart** villagers are wood elves, elven peasants, centaurs and dwarves, none of them armed.
+- New switches in `[Towns]`: `Villagers` (on/off) and `VillagerBow` (how they bow).
+
+### Changed
+- **Bigger village buildings:** houses, buildings and landmarks are 20 % bigger, and each village has more ground (wider and deeper), so a fully built town still gets all its houses.
+- **Smaller creatures at banks and dwellings:** small creatures are drawn about a quarter smaller than before, so they fit the size of the map's buildings. Big creatures stay larger: every tier 6 and 7 creature, every two-hex creature (griffins, centaurs, wolf riders, pegasi, cerberi, basilisks, gorgons...), and the large dendroids, ogres, golems, minotaurs, elementals, demons, genies and trolls.
+
+### Note
+- Villages in savegames from 1.4 beta 1 are made again once when the save is loaded, so they may look different.
+
 ## 1.4 beta 1
 
 Town Building Immersion is in beta until every town type has its village. Each new town type comes as the next beta. I should have done this on 1.3 where CASTLE Faction were developed.
