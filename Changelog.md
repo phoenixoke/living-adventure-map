@@ -2,6 +2,25 @@
 
 The release notes of every version, newest first (the same notes as on the GitHub release pages).
 
+## 1.4 beta 1
+
+Town Building Immersion is in beta until every town type has its village. Each new town type comes as the next beta. I should have done this on 1.3 where CASTLE Faction were developed.
+
+### New
+- **Rampart villages:** Rampart towns now grow an elven village as you build them: thatched houses among the trees, a mage guild pagoda that rises to five levels, the tavern, market stalls, a silo cart and a forest smithy. Landmarks include stone lanterns, a lookout tower for each fort level, a totem shrine, a granary and a dwarf mine, on a road of Rampart's own dirt.
+
+### Fixed
+- Towns with a horde building (Griffin Bastion, Miner's Guild, Dendroid Saplings) showed one house too few.
+- Some Castle towns got one house too many from a scenery slot of the town screen.
+- A Castle with the Brotherhood of the Sword lost its tavern.
+- A town standing on special ground
+- Houses no longer stand straight behind each other with only their roofs showing.
+- The mage guild no longer spills over its spot, and benches and trees keep clear of it at every level.
+- Villages are ready when the game loads
+
+### Note
+- Villages in savegames from 1.3 are made again once when the save is loaded, so they may look a little different.
+
 ## 1.3
 
 ### New
