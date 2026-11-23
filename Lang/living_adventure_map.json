@@ -94,7 +94,7 @@
         "dwellings": "Creatures come out of dwellings that have some to hire (half of them, at most 2 at a time)",
         "objects": "Life at adventure objects: swordsmen train in front of Marletto Tower",
         "leafAmount": "How many leaves, needles and snow the wind takes off the trees (top bar = normal)",
-        "towns": "WIP: villages grow in front of Castle, Rampart and Tower towns as they are built (no dwellings or special buildings yet)"
+        "towns": "WIP: villages grow in front of Castle, Rampart, Tower and Inferno towns as they are built (no dwellings or special buildings yet)"
       },
       "head": {
         "effects": "Effects",

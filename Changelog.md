@@ -2,6 +2,23 @@
 
 The release notes of every version, newest first (the same notes as on the GitHub release pages).
 
+## 1.4 beta 4
+
+Town Building Immersion is in beta until every town type has its village.
+
+### New
+- **Inferno villages:** Inferno towns now grow a village of their own as you build them, drawn to match Inferno's own town screen: dark half-timbered houses of speckled maroon stone under horned charcoal roofs with glowing windows, a tavern, covered market stalls, three mercury troughs for the silo, a red-brick forge with a burning chimney, and a fire pagoda for a mage guild that gains a floor with every level.
+- **Inferno landmarks:** a fire basin stands in front of the town from the start, a guard tower appears for each fort level, and the Brimstone Clouds, Castle Gate and Order of Fire bring a sulphur vent, a horned fire portal and a flame shrine.
+- **Inferno grounds:** no green in an Inferno village - charred dead trees and lava-rock spires, thorn brambles and sulphur boulders, lava pools and ember pits, fire bowls, iron torch posts, spiked iron fences, coal carts and fire lilies. The charred trees stand still in the wind.
+- **Inferno roads:** the village road is laid from Inferno's own cobbles with the dark rubble beside it, as on the town's own path, so it carries on from the town without a seam.
+- **Inferno villagers:** townsfolk in dark red, charcoal and ember, imps, and gogs without the fireball in their hand. They walk up the town's own road to its door: the hall at the top of the stairs while the town has no fort, the keep's door once it has one.
+
+### Fixed
+- A village never lays its own road over a road of the map: it ends where it meets one and joins it (every town type).
+
+### Note
+- Villages in savegames from 1.4 beta 3 are made again once when the save is loaded, so they may look different.
+
 ## 1.4 beta 3
 
 Town Building Immersion is in beta until every town type has its village.
