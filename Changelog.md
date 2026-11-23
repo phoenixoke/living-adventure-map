@@ -2,6 +2,20 @@
 
 The release notes of every version, newest first (the same notes as on the GitHub release pages).
 
+## 1.4 beta 6
+
+Town Building Immersion is in beta until every town type has its village.
+
+### New
+- **Dungeon villages:** Dungeon towns now grow a village as you build them, drawn to match the Dungeon town screen: domed huts of pale grey-blue stone with glowing doorways take the place of houses, beside a timber tavern, a market, a resource silo, a smithy, and a honey-sandstone mage guild that gains a level with every guild level.
+- **Dungeon landmarks:** a torch brazier on a stone plinth stands in front of the town from the start, a sandstone guard tower appears for each fort level and grows taller with the Citadel and the Castle, and the Artifact Merchants, the Portal of Summoning and the Battle Scholar Academy bring a merchant's house, a red-glowing portal arch and a dais with a statue. With the Mana Vortex, a swirling funnel of blue and violet light rises over the village's mage guild.
+- **Dungeon grounds:** giant cave mushrooms in blue, violet and gold that stand still in the wind, fungus shrubs, glowing moss, stalagmites and crystals, mushroom beds, ore heaps, ore carts, torch posts and lanterns.
+- **Dungeon roads:** the village road is laid from Dungeon's own pale sand path with the brown rock beside it, and its edge frays into the rock with the same grainy, organic edge as the Castle and Rampart roads.
+- **Dungeon villagers:** townsfolk in violet, leather brown, cave teal and plum, troglodytes without their spear, harpies, minotaurs without their axe and medusas, all empty-handed. They walk up the town's own road to its door: the village hall, the fort, the citadel and the castle each have their own.
+
+### Note
+- Villages in savegames from 1.4 beta 5 are kept as they are; Dungeon towns get their village when the save is loaded.
+
 ## 1.4 beta 5
 
 Town Building Immersion is in beta until every town type has its village.
