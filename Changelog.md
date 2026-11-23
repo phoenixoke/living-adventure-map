@@ -2,6 +2,20 @@
 
 The release notes of every version, newest first (the same notes as on the GitHub release pages).
 
+## 1.4 beta 8
+
+Town Building Immersion is in beta until every town type has its village.
+
+### New
+- **Fortress villages:** Fortress towns now grow a swamp village as you build them, drawn to match the Fortress town screen: reed-thatched huts on stilts with little ladders and round mud mound huts take the place of houses, beside a plank tavern with its cooking fire, reed-roofed market stalls, a round reed granary on stilts for the silo, the thatched blacksmith with its potions, and a pointed thatched mage tower with blue-green torches that grows a storey with every guild level.
+- **Fortress landmarks:** a carved swamp totem on a stilted platform stands in front of the town from the start, a stilt lookout tower appears for each fort level and grows taller with the Citadel and the Castle, and the Blood Obelisk, the Glyphs of Fear and the Cage of Warlords bring a red-stained stone obelisk, carved stone discs in a mossy wall and a wooden cage hanging from a dead tree.
+- **Fortress grounds:** mangroves on arching roots and cypresses hung with moss that sway in the wind, ferns, cattail reeds, lily ponds, a dugout canoe, glowing swamp mushrooms, reed bundles, cooking pots and a ring of carved stones around a fire.
+- **Fortress roads:** the village road is laid from Fortress's own stone path with the moss beside it, its edge grainy and organic like Dungeon's and Stronghold's.
+- **Fortress villagers:** townsfolk in swamp greens and browns, gnolls without their flail and lizardmen without their bow - each creature only once its own dwelling is built. They walk up the town's own road to its door: the village hall, the fort, the citadel and the castle each have their own.
+
+### Note
+- Villages in savegames from 1.4 beta 7 are kept as they are; Fortress towns get their village when the save is loaded.
+
 ## 1.4 beta 7
 
 Town Building Immersion is in beta until every town type has its village.
