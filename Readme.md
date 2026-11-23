@@ -1,4 +1,4 @@
-# Living Adventure Map 1.4 beta 6
+# Living Adventure Map 1.4 beta 7
 
 by Sinistral, co-authored by Claude
 
@@ -12,7 +12,7 @@ The guards of every creature bank come alive - from the game or from any mod: fl
 
 Still shrines, wells and fountains give off a faint shimmer, and objects at sea stir the water around them.
 
-Towns grow a village in front of their walls as you build them: houses, the tavern, the marketplace, the blacksmith, the mage guild, a well, watchtowers, market stalls and gardens, placed around the map's own objects and never moved once they stand. Implemented Town : Castle, Rampart, Tower, Inferno, Necropolis and Dungeon.
+Towns grow a village in front of their walls as you build them: houses, the tavern, the marketplace, the blacksmith, the mage guild, a well, watchtowers, market stalls and gardens, placed around the map's own objects and never moved once they stand. Implemented Town : Castle, Rampart, Tower, Inferno, Necropolis, Dungeon and Stronghold.
 
 A small compass shows where the wind blows - or lets you decide. Calm days leave the windmills standing still.
 

@@ -2,6 +2,22 @@
 
 The release notes of every version, newest first (the same notes as on the GitHub release pages).
 
+## 1.4 beta 7
+
+Town Building Immersion is in beta until every town type has its village.
+
+### New
+- **Stronghold villages:** Stronghold towns now grow a village as you build them, drawn to match the Stronghold town screen: houses of rough grey fieldstone and dark timber under shingle and hide roofs with pale bone ridge beams, beside an open timber tavern with tables and cauldrons, a market of canopied stalls, the red-crowned resource silo, a stone forge, and a slender stone mage guild that grows a storey with every guild level.
+- **Stronghold landmarks:** a carved totem pole with horns and skulls stands in front of the town from the start, a stone guard tower appears for each fort level and grows taller with the Citadel and the Castle, and the Hall of Valhalla, the Freelancer's Guild, the Ballista Yard and the Escape Tunnel bring a tall carved tower, a domed hall ribbed with bone, a ballista on its log platform and a timbered cave mouth in the rock.
+- **Stronghold grounds:** gnarled dry trees that stand still in the wind, thorn bushes, dry grass and ochre boulders, cauldrons over the fire, log piles, palisades of sharpened stakes, carts, bone piles, a war drum, a fire ring of bone stakes and racks of drying hides.
+- **Stronghold roads:** the village road is laid from Stronghold's own trodden path with the rock beside it, its edge grainy and organic like Dungeon's.
+- **Stronghold villagers:** townsfolk in hides, rust and ochre, goblins without their flail, orcs without their axe and ogres without their club. They walk up the town's own road to its door: the village hall, the fort, the citadel and the castle each have their own.
+- **Castle villagers:** besides the peasants, pikemen without their pike, swordsmen without their sword, and monks.
+- **Creatures need their dwelling:** in every town, a creature lives in the village only once its own dwelling is built (the upgraded one counts too); until then that house is home to townsfolk. When the dwelling is built, the villager comes out as the creature the next time it goes indoors.
+
+### Note
+- Villages in savegames from 1.4 beta 6 are kept as they are; Stronghold towns get their village when the save is loaded.
+
 ## 1.4 beta 6
 
 Town Building Immersion is in beta until every town type has its village.
