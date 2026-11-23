@@ -2,6 +2,25 @@
 
 The release notes of every version, newest first (the same notes as on the GitHub release pages).
 
+## 1.4 beta 5
+
+Town Building Immersion is in beta until every town type has its village.
+
+### New
+- **Necropolis villages:** Necropolis towns now grow a graveyard village as you build them, drawn to match the Necropolis town screen: graves, tombs and small crypts of cold grey stone take the place of houses, beside a stone tavern hall with blue stained-glass windows, a domed market shrine, a gothic arched portal for the silo, a blacksmith under red-lit iron arches, and a stepped stone mage guild that gains a level with every guild level.
+- **Necropolis landmarks:** an obelisk with a green flame stands in front of the town from the start, a guard tower appears for each fort level and grows taller with the Citadel and the Castle, and the Veil of Darkness, Necromancy Amplifier and Skeleton Transformer bring a shrine wrapped in black mist, a red-lit spire and an altar of bones.
+- **Necropolis grounds:** dead grey trees that stand still in the wind, thorn bushes, leaning tombstones and stone crosses, iron cemetery fences, bone piles, coffins, braziers and lanterns burning with green ghost-fire, a crow on its post, grey lilies, broken columns and freshly dug graves.
+- **Necropolis roads:** the village road is laid from Necropolis's own pale sand path with the brown rubble beside it, so it carries on from the town without a seam.
+- **Necropolis villagers:** hooded mourners in black and grey, skeletons without their sword, and zombies with nothing in their hands. They rise out of their graves and sink back into them when they go home, or when an enemy hero comes near. They walk up the town's own road to its door: the doorway of the village keep, the fort's door, and the gate once a Citadel stands.
+
+- **Bigger villages:** every village building is about 25 % bigger with all its detail kept, and the decorations, the villagers and the creatures at creature banks, dwellings and the training ground grew with them. The village area is wider and deeper to make room.
+- **Castle:** its village road is now laid from Castle's own dirt path and frays into the grass with a ragged, grainy edge, tufts of grass and a trampled border. New landmarks for Castle's own buildings: the Brotherhood of the Sword's guild house and the Lighthouse, beside a well from the start, a stable and market stalls. New decorations of its own.
+- **Rampart:** the same blended road from Rampart's own path, and a lusher, greener valley like its town screen: dark firs, blue-green spruces, birches and green trees, more bushes and gardens, and mossy props of its own.
+- **Tower:** new decorations of its own.
+- **Smoking landmarks:** the Necropolis Cover of Darkness pours dense charcoal smoke that rises, levels off and spreads into a cover drifting with the wind, and with the Brimstone Clouds the two chimneys of an Inferno fort erupt every few seconds: a fireball, a maroon column lit from below, lightning and sparks (the sulphur vent of 1.4 beta 4 is gone - the smoke comes from the fort itself). The smoke is simulated (heat, wind and gusts, eddies, light and shadow) and drawn with the game's own smoke pixels. Ini [Towns] LandmarkSmoke.
+### Note
+- Villages in savegames from 1.4 beta 4 are made again once when the save is loaded, so they may look different.
+
 ## 1.4 beta 4
 
 Town Building Immersion is in beta until every town type has its village.

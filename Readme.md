@@ -1,4 +1,4 @@
-# Living Adventure Map 1.4 beta 4
+# Living Adventure Map 1.4 beta 5
 
 by Sinistral, co-authored by Claude
 
@@ -12,7 +12,7 @@ The guards of every creature bank come alive - from the game or from any mod: fl
 
 Still shrines, wells and fountains give off a faint shimmer, and objects at sea stir the water around them.
 
-Towns grow a village in front of their walls as you build them: houses, the tavern, the marketplace, the blacksmith, the mage guild, a well, watchtowers, market stalls and gardens, placed around the map's own objects and never moved once they stand. Implemented Town : Castle, Rampart, Tower and Inferno.
+Towns grow a village in front of their walls as you build them: houses, the tavern, the marketplace, the blacksmith, the mage guild, a well, watchtowers, market stalls and gardens, placed around the map's own objects and never moved once they stand. Implemented Town : Castle, Rampart, Tower, Inferno and Necropolis.
 
 A small compass shows where the wind blows - or lets you decide. Calm days leave the windmills standing still.
 
@@ -30,7 +30,7 @@ All switches and strengths are in `Mods\Living Adventure Map\Data\Living Adventu
 - **Living Adventure Tweak:** System Options > Other Settings (below Script Message Disabling, once a game has started). Three columns: General (hide the compass, its corner and size, the leaf amount), Effects (trees, trees underground, leaves, birds, wildlife, smoke, windmills, windmills underground) and Creature Life (creature banks, dwellings, adventure objects), with Special Immersion below it (Town Building Immersion - villages and their villagers). The compass icon at the top right opens the wind window. OK writes your changes into the ini.
 - **Sound** follows the game's Sound Effects volume and its "Background Sounds" option.
 - **Languages:** every text is in `Lang\living_adventure_map.json`; a Russian translation is in `Lang\ru\`. Choose the language with the Language button in System Options. To translate, copy the json into `Lang\<language code>\` and translate the texts (keep the `@name@` parts).
-- **Each feature has its own switch:** `[Windmills]` (also `CalmStop` and `Underground`), `[Banks]`, `[Dwellings]`, `[Towns]` (also `Villagers`), `[Buildings] Training` and `Dragons`, `[Smoke] Chimneys` and `Glow`, `[Sites]`, `[Trees]` (also `Underground`: plants underground sway with the wind above ground).
+- **Each feature has its own switch:** `[Windmills]` (also `CalmStop` and `Underground`), `[Banks]`, `[Dwellings]`, `[Towns]` (also `Villagers` and `LandmarkSmoke`), `[Buildings] Training` and `Dragons`, `[Smoke] Chimneys` and `Glow`, `[Sites]`, `[Trees]` (also `Underground`: plants underground sway with the wind above ground).
 - **Off by default:** the crackling fire and the leaf rustling sounds (`[Sound] Fire`, `Leaves`), and the experimental bending of volcano and geyser plumes (`[Smoke] Volcanic` - still being reworked, see the warning in the ini).
 
 ## COMPATIBILITY
