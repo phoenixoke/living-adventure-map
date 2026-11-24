@@ -2,6 +2,25 @@
 
 The release notes of every version, newest first (the same notes as on the GitHub release pages).
 
+## 1.4
+
+Town Building Immersion is complete: with Conflux, every town type in ERA - Castle, Rampart, Tower, Inferno, Necropolis, Dungeon, Stronghold, Fortress and Conflux - grows its own village as you build it, with its own houses, landmarks, road, decorations and villagers. The betas below list what each step added.
+
+### New
+- **Conflux villages:** Conflux towns now grow a village as you build them, drawn to match the Conflux town screen: cottages of rose and tan brick under green and teal tile roofs with copper finials, beside the octagonal tavern, a market of blue and orange striped tents, the slender copper-domed resource silo, the long brick forge, and a brick minaret mage guild that grows a tier with every guild level.
+- **Conflux landmarks:** a glowing crystal floats above a carved plinth in front of the town from the start, a brick guard tower appears for each fort level and grows taller with the Citadel and the Castle, and the Artifact Merchants and the Magic University bring the clock-faced merchant chapel and the domed university palace.
+- **Conflux grounds:** cypresses, broadleaf trees, blossoming trees and pines that sway in the wind, flowering bushes, glowing mushrooms, copper street lamps, a pavilion, a flower arch, a well, fruit baskets, carts and barrels.
+- **Conflux roads:** the village road is laid from Conflux's own brown dirt path, its edge grainy and organic like Dungeon's, Stronghold's and Fortress's.
+- **Conflux villagers:** townsfolk in rose, teal, gold and violet, and pixies once the Magic Lantern is built. They walk up the town's own road to its door: the village hall, the fort and the castle each have their own.
+
+### Fixed
+- **Village pieces no longer cut through map objects in front of them:** a windmill, a monster or any other map object standing in front of a village house, tower or tree is now drawn over it, the way the game layers its own objects. Before, the upper part of the village piece was drawn over the object (seen with a windmill's sails and a fire elemental). This applies to every town type.
+- **Villages keep clear of windmill sails:** no village house, tree or bush is planted where a windmill's sails sweep.
+- **Turning windmills cast their shadow:** a windmill's shadow stayed only while its sails stood still; it now turns with them.
+
+### Note
+- Villages in savegames from 1.4 beta 8 are kept as they are; Conflux towns get their village when the save is loaded.
+
 ## 1.4 beta 8
 
 Town Building Immersion is in beta until every town type has its village.
